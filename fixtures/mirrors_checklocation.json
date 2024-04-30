@@ -3,50 +3,118 @@
     "model": "mirrors.checklocation",
     "pk": 1,
     "fields": {
-      "hostname": "cdn77.com",
-      "source_ip": "84.17.57.98",
-      "country": "HK",
-      "created": "2023-07-13T20:02:50.757Z"
+      "hostname": "gemini.archlinux.org",
+      "source_ip": "49.12.124.107",
+      "country": "Germany",
+      "country_code": "DE"
     }
   },
   {
     "model": "mirrors.checklocation",
     "pk": 2,
     "fields": {
-      "hostname": "cdn77.com",
-      "source_ip": "89.187.191.12",
-      "country": "CZ",
-      "created": "2023-07-13T20:56:20.288Z"
+      "hostname": "gemini.archlinux.org",
+      "source_ip": "2a01:4f8:242:5614::2",
+      "country": "Germany",
+      "country_code": "DE"
     }
   },
   {
     "model": "mirrors.checklocation",
     "pk": 3,
     "fields": {
-      "hostname": "your-server.de",
-      "source_ip": "78.46.209.220",
-      "country": "DE",
-      "created": "2023-07-13T20:57:04.190Z"
+      "hostname": "america.mirror.pkgbuild.com",
+      "source_ip": "143.244.34.62",
+      "country_code": "US"
     }
   },
   {
     "model": "mirrors.checklocation",
     "pk": 4,
     "fields": {
-      "hostname": "jump.net.uk",
-      "source_ip": "185.73.44.89",
-      "country": "GB",
-      "created": "2023-07-13T20:58:07.422Z"
+      "hostname": "america.mirror.pkgbuild.com",
+      "source_ip": "2a02:6ea0:cc0e::2",
+      "country": "United States",
+      "country_code": "US"
     }
   },
   {
     "model": "mirrors.checklocation",
     "pk": 5,
     "fields": {
-      "hostname": "datapacket.com",
-      "source_ip": "143.244.34.62",
-      "country": "US",
-      "created": "2023-07-13T20:58:41.430Z"
+      "hostname": "asia.mirror.pkgbuild.com",
+      "source_ip": "84.17.57.98",
+      "country": "Hong Kong",
+      "country_code": "HK"
+    }
+  },
+  {
+    "model": "mirrors.checklocation",
+    "pk": 6,
+    "fields": {
+      "hostname": "asia.mirror.pkgbuild.com",
+      "source_ip": "2a02:6ea0:d605::2",
+      "country": "Hong Kong",
+      "country_code": "HK"
+    }
+  },
+  {
+    "model": "mirrors.checklocation",
+    "pk": 7,
+    "fields": {
+      "hostname": "europe.mirror.pkgbuild.com",
+      "source_ip": "89.187.191.12",
+      "country_code": "CZ"
+    }
+  },
+  {
+    "model": "mirrors.checklocation",
+    "pk": 8,
+    "fields": {
+      "hostname": "europe.mirror.pkgbuild.com",
+      "source_ip": "2a02:6ea0:c237::2",
+      "country": "Czechia",
+      "country_code": "CZ"
+    }
+  },
+  {
+    "model": "mirrors.checklocation",
+    "pk": 9,
+    "fields": {
+      "hostname": "mirror.pkgbuild.com",
+      "source_ip": "78.46.209.220",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  },
+  {
+    "model": "mirrors.checklocation",
+    "pk": 10,
+    "fields": {
+      "hostname": "mirror.pkgbuild.com",
+      "source_ip": "2a01:4f8:c2c:c62f::1",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  },
+  {
+    "model": "mirrors.checklocation",
+    "pk": 11,
+    "fields": {
+      "hostname": "london.mirror.pkgbuild.com",
+      "source_ip": "185.73.44.89",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    }
+  },
+  {
+    "model": "mirrors.checklocation",
+    "pk": 12,
+    "fields": {
+      "hostname": "london.mirror.pkgbuild.com",
+      "source_ip": "2001:ba8:0:4030::2",
+      "country": "United Kingdom",
+      "country_code": "GB"
     }
   }
 ]
